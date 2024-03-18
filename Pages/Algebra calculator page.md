@@ -23,7 +23,7 @@
 		- Solve - The "Solve" operation unearths the answers or roots of algebraic equations. Users can enter equations, and the calculator determines the values of variables that fulfill the equation. This includes locating real or complex solutions to linear equations, quadratic equations, polynomial equations, structures of equations, and more. 
 			- The "Solve" option assists users in solving equations analytically, supplying step-by using-step solutions or numerical approximations as wished.
 			- The "Lesson" option suggests you a lesson from the "Lessons" page.
-			- The "Practice" option leads you to [[Practice tutor page]] 
+			- The "Practice" option leads you to [[Practice page]] 
 		
 	-  Math Symbols in Algebra Calculator:
 		- + (Addition)
@@ -44,4 +44,4 @@
 
 ## ***Graphing* Functionality:**
 
-- Some versions of the Algebra Calculator page may include graphing functionality. In this case, users can visualize equations and functions by plotting them on a graph within the calculator interface. The graphing section typically appears below the input and output sections and allows users to customize the appearance of the graph, such as adjusting the scale and style.
+- Some versions of the Algebra Calculator page  include graphing functionality. In this case, users can visualize equations and functions by plotting them on a graph within the calculator interface. The graphing section typically appears below the input and output sections and allows users to customize the appearance of the graph, such as adjusting the scale and style.

@@ -1,0 +1,10 @@
+There are other calculators that are similar in design to the algebra calculator page, here is a list of them. You can access them by going to the products menu at the bottom of any mathpapa page and clicking on any other calculator. Here is a short explanation for all the other calculators.
+
+### Quadratic Formula Calculator page
+- The Quadratic Formula Calculator Page is specifically designed to solve quadratic equations using the quadratic formula. Users can input the coefficients of a quadratic equation, and the calculator provides the solutions or roots of the equation. This calculator is particularly useful for quickly and accurately finding the solutions to quadratic equations of the form ax^2 + bx + c = 0.
+### Inequality Calculator page
+- The Inequality Calculator Page allows users to solve and graph inequalities. Users can input an inequality expression, and the calculator determines the solution set and provides a graphical representation of the inequality on a number line or coordinate plane. This calculator is helpful for understanding and visualizing the relationships between variables in inequalities.
+### Simplify Calculator page
+- The Simplify Calculator Page simplifies algebraic expressions and equations. Users can input complex expressions, and the calculator simplifies them by combining like terms, applying algebraic rules, and factoring as needed. This calculator helps users streamline expressions to their simplest form, making them easier to understand and work with in further calculations.
+### Derivative calculator page
+- The Derivative Calculator Page computes derivatives of functions with respect to a variable. Users can input a function expression, and the calculator calculates the derivative, providing the derivative function and graphical representations of the function and its derivative. This calculator is essential for studying calculus concepts such as rates of change, tangent lines, and optimization problems.
